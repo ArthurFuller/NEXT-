@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34425ad88128a7941bdf5aa4bcc07afe, type: 3}
+  m_Name: Card_9
+  m_EditorClassIdentifier: 
+  cardName: Card_9
+  employeeCardSprite: {fileID: 21300000, guid: a78c7e1189ad69f428cdf9ae72c02554, type: 3}
+  iconSprite: {fileID: 21300000, guid: a902370ba8088af42a281120129f3850, type: 3}
+  robot1Sprite: {fileID: 21300000, guid: 121e924156a9c5c4d8a1cf217811dcfc, type: 3}
+  robot2Sprite: {fileID: 21300000, guid: 6b3131f2c818cef4fb51758d90bbf79c, type: 3}
+  robot1CardSprite: {fileID: 21300000, guid: efd3e40398076c84b97903361ab4a7c1, type: 3}
+  robot2CardSprite: {fileID: 21300000, guid: 77ba33441bdad244b8c382ff1c87a726, type: 3}
+  daySummarySprite: {fileID: 21300000, guid: 28bdbe789b45da447ab8da11240621cb, type: 3}
+  correctChoiceCardSprite: {fileID: 21300000, guid: b58c187de2a48914f8dbd949210f30e8, type: 3}
+  incorrectChoiceCardSprite: {fileID: 21300000, guid: 563fd21859cde624fafa83b0719fbdd3, type: 3}
+  topSelectionSprite: {fileID: 21300000, guid: c87f226e194538646a030f384ed26ae0, type: 3}
+  correctRobotIndex: 1
+  robot1Feedback: 
+  robot2Feedback: 
